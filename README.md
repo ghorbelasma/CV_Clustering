@@ -10,7 +10,8 @@ A partir d'un dataset de plusieurs profils dans le domaine de Data, on va:
 
 
 ## Données
-data.csv contient 6 variables : 
+data.csv contient 6 variables :    
+
     - 'Entreprise' correspond à une liste d'entreprises fictive
     - 'Metier' correspond au métier parmi data scientist, lead data scientist, data engineer et data architecte
     - 'Technologies' correspond aux compétences maîtrisées par le profil
